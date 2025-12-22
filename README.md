@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mame Belete
+# 👋 Hi, I'm Andualem (Mame) Belete
 
 🚀 **Full-Stack MERN Developer** | Marketplace & Fintech Systems  
 📍 Dubai, UAE  
