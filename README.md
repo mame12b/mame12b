@@ -35,7 +35,7 @@ I focus on:
 - Postman
 - jenkins
 - Docker (learning)
-- CI/CD (learning)
+- CI/CD
 
 ---
 
@@ -54,7 +54,7 @@ Savings, credit, and digital lending platform designed for local impact.
 
 ## 📫 Contact Me
 - 📧 Email: mame4005@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn:https://www.linkedin.com/in/mame12b/ 
 - 🌐 Portfolio: https://lyan-restaurant.vercel.app/
 
 ---
